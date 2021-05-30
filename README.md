@@ -3,7 +3,7 @@ Objective of the project is to develop an AI assistant which understands the mes
 
 
 Import following libraries to run this project:
-1)pip install chatterbot==0.8.6
-2)pip install speech_recognition
-3)pip install pyttsx3
-4)pip install PyAudio
+*)pip install chatterbot==0.8.6
+*)pip install speech_recognition
+*)pip install pyttsx3
+*)pip install PyAudio
